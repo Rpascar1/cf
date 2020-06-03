@@ -1,0 +1,25 @@
+{
+  "application.js": "/packs/js/application-6b68e07d5c49050d0a6a.js",
+  "application.js.map": "/packs/js/application-6b68e07d5c49050d0a6a.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-6b68e07d5c49050d0a6a.js"
+      ],
+      "js.map": [
+        "/packs/js/application-6b68e07d5c49050d0a6a.js.map"
+      ]
+    },
+    "medi-chart-bundle": {
+      "js": [
+        "/packs/js/medi-chart-bundle-b6588254748abe6e0a3b.js"
+      ],
+      "js.map": [
+        "/packs/js/medi-chart-bundle-b6588254748abe6e0a3b.js.map"
+      ]
+    }
+  },
+  "medi-chart-bundle.js": "/packs/js/medi-chart-bundle-b6588254748abe6e0a3b.js",
+  "medi-chart-bundle.js.map": "/packs/js/medi-chart-bundle-b6588254748abe6e0a3b.js.map",
+  "media/components/solid_bars1.png": "/packs/media/components/solid_bars1-1cd35237f0627028e10901cb9a66234b.png"
+}
